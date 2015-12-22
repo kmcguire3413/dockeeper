@@ -1,0 +1,21 @@
+{
+  "name": "dockeeper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kmcguire3413/dockeeper"
+  },
+  "author": "Leonard Kevin McGuire Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmcguire3413/dockeeper/issues"
+  },
+  "dependencies": {
+    "mongodb": "^2.0.52"
+  }
+}
