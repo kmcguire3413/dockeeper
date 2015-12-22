@@ -16,6 +16,6 @@
     "url": "https://github.com/kmcguire3413/dockeeper/issues"
   },
   "dependencies": {
-    "mongodb": "^2.0.52"
+    "node-uuid": "^1.4.7"
   }
 }
